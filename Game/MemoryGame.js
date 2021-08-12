@@ -13,8 +13,17 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'minion',
             img : 'images/minion.png'
         },
+        {
             name: 'pizza',
-
+            img: 'images/pizza.jpeg'
+        },
+        {
+            name: 'shroom',
+            img: 'images/shroom.jpeg'
+        } ,
+        {
+            name:''
+        }
     ]
 
 })
